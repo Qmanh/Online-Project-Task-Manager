@@ -6,7 +6,7 @@ The Online Project Task Manager is a widely-used online project and task managem
 In this project, it have two branch:
 1. Branch: **[`dev`](https://github.com/Qmanh/Online-Project-Task-Manager/tree/back-end)** (Back-end)
  - This branch contains the source code for building the Spring Boot application, including all back-end functionalities and APIs.
-2. Branch:  **[`font-end`](https://github.com/Qmanh/Online-Project-Task-Manager/tree/front-end)**
+2. Branch:  **[`font-end`](https://github.com/Qmanh/Online-Project-Task-Manager/tree/front-end)**(front-end)
  - This branch houses the UI/UX components of the website, featuring the design and interactive elements for the user interface.
 
 ## Features
