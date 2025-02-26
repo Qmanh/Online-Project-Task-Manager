@@ -14,8 +14,6 @@ In this project, it have two branch:
 ### Authenticate and authorize users with encrypted JWT stored in Cookies.
 ### Implement drag-and-drop functionality to update cards within columns.
 ### Autocomplete search and invite users to join board
-### Mobile Compatibility
-- **Responsive Design**: The website will be optimized for both desktop and mobile devices to ensure a seamless shopping experience.
 ## Tech Stack ☕
 
 **Client:** React, Redux Toolkit, Material-UI (MUI) 📦, Axios
